@@ -9,7 +9,6 @@
 
 **Transform your Android phone into a wireless Bluetooth mouse - No server setup required!**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [How It Works](#-how-it-works) • [Setup](#-setup-guide) • [Contributing](#-contributing)
 
 </div>
 
