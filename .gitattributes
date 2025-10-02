@@ -1,0 +1,9 @@
+# Override language detection for Flutter project
+*.cc -linguist-detectable
+*.cpp -linguist-detectable  
+*.h -linguist-detectable
+*.cmake -linguist-detectable
+CMakeLists.txt -linguist-detectable
+
+# Ensure Dart files are detected
+*.dart linguist-detectable
