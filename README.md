@@ -60,20 +60,11 @@ Bluetooth Mouse Controller is a Flutter application that converts your Android s
 
 ## 📱 Demo
 
-<div align="center">
 
-### Disconnected State
-<img src="screenshots/disconnected.png" width="250" alt="Disconnected State"/>
 
-### Connected State
-<img src="screenshots/connected.png" width="250" alt="Connected State"/>
+https://github.com/user-attachments/assets/86791ac2-286a-4070-8a7c-cb1e883e7b4b
 
-### Touchpad in Action
-<img src="screenshots/touchpad.png" width="250" alt="Touchpad"/>
 
-</div>
-
----
 
 ## 🔧 How It Works
 
@@ -350,59 +341,3 @@ val descriptor = byteArrayOf(
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-## 🙏 Acknowledgments
-
-- Flutter team for the amazing framework
-- Android Bluetooth HID API documentation
-- The open-source community
-
----
-
-## ⭐ Star History
-
-If you find this project helpful, please consider giving it a star!
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/bluetooth-mouse&type=Date)](https://star-history.com/#yourusername/bluetooth-mouse&Date)
-
----
-
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/yourusername/bluetooth-mouse?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/bluetooth-mouse?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/bluetooth-mouse?style=social)
-
----
-
-<div align="center">
-
-**Made with ❤️ and Flutter**
-
-[⬆ Back to Top](#️-bluetooth-mouse-controller)
-
-</div>
