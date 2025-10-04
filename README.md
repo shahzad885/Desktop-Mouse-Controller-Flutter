@@ -89,19 +89,7 @@ This app leverages **Bluetooth HID (Human Interface Device) profile**, the same 
 4. **HID Report Descriptor** - Defines mouse capabilities (movement, clicks, scroll)
 5. **Bluetooth Stack** - Native Android Bluetooth API handles communication
 
-### HID Report Structure
 
-The app sends standard USB HID mouse reports:
-
-```kotlin
-[Button State (1 byte)] [X Movement (1 byte)] [Y Movement (1 byte)] [Wheel (1 byte)]
-```
-
-- **Button State**: Bit flags for left/right/middle clicks
-- **X/Y Movement**: Relative movement (-127 to +127)
-- **Wheel**: Scroll amount (-127 to +127)
-
----
 
 ## 🚀 Installation
 
